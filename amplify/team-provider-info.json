@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifycognitoquiz-dev-9b15d-authRole",
+      "UnauthRoleArn": "arn:aws:iam::905418415674:role/amplify-amplifycognitoquiz-dev-9b15d-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::905418415674:role/amplify-amplifycognitoquiz-dev-9b15d-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifycognitoquiz-dev-9b15d-deployment",
+      "UnauthRoleName": "amplify-amplifycognitoquiz-dev-9b15d-unauthRole",
+      "StackName": "amplify-amplifycognitoquiz-dev-9b15d",
+      "StackId": "arn:aws:cloudformation:us-east-1:905418415674:stack/amplify-amplifycognitoquiz-dev-9b15d/ac93d110-7b85-11ef-9536-12e0b61898ff",
+      "AmplifyAppId": "d2q1tk6aob0v0m"
+    },
+    "categories": {
+      "auth": {
+        "amplifycognitoquizca86c68c": {}
+      }
+    }
+  }
+}
